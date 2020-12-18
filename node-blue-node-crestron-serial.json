@@ -1,0 +1,11 @@
+{
+  "id": "node-blue-node-crestron-serial",
+  "version": "1.0.2",
+  "url": "https://github.com/Homegear/node-blue-node-crestron-serial/blob/master/README.md",
+  "pkg_url": "https://github.com/Homegear/node-blue-node-crestron-serial/archive/master.tar.gz",
+  "description": "Provides a miele node for Node-BLUE.",
+  "keywords": [
+    "crestron"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

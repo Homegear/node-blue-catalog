@@ -1,0 +1,13 @@
+{
+  "id": "node-blue-node-telegram",
+  "version": "1.0.0",
+  "url": "https://github.com/m-scheffler/node-blue-node-telegram/blob/master/README.md",
+  "pkg_url": "https://github.com/m-scheffler/node-blue-node-telegram/archive/master.tar.gz",
+  "description": "Provides telegram nodes for Node-BLUE.",
+  "keywords": [
+    "messenger",
+    "notification",
+    "telegram"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

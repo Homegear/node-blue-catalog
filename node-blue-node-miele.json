@@ -1,0 +1,11 @@
+{
+  "id": "node-blue-node-miele",
+  "version": "1.0.0",
+  "url": "https://github.com/Homegear/node-blue-node-miele/blob/master/README.md",
+  "pkg_url": "https://github.com/Homegear/node-blue-node-miele/archive/master.tar.gz",
+  "description": "Provides a miele node for Node-BLUE.",
+  "keywords": [
+    "miele"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

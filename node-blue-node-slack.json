@@ -1,0 +1,13 @@
+{
+  "id": "node-blue-node-slack",
+  "version": "1.0.0",
+  "url": "https://github.com/m-scheffler/node-blue-node-slack/blob/master/README.md",
+  "pkg_url": "https://github.com/m-scheffler/node-blue-node-slack/archive/master.tar.gz",
+  "description": "Provides a Slack node for Node-BLUE.",
+  "keywords": [
+    "messenger",
+    "notification",
+    "slack"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "node-blue-node-variable-profiles",
+  "version": "1.0.0",
+  "url": "https://github.com/m-scheffler/node-blue-node-variable-profiles/blob/master/README.md",
+  "pkg_url": "https://github.com/m-scheffler/node-blue-node-variable-profiles/archive/master.tar.gz",
+  "description": "Provides a node to activate Homegear variable profiles.",
+  "keywords": [
+    "homegear",
+    "variable",
+    "profile"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

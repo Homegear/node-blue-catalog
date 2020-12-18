@@ -1,0 +1,15 @@
+{
+  "id": "node-blue-node-apple-tv",
+  "version": "1.0.1",
+  "url": "https://github.com/Homegear/node-blue-node-apple-tv/blob/master/README.md",
+  "pkg_url": "https://github.com/Homegear/node-blue-node-apple-tv/archive/master.tar.gz",
+  "description": "Provides a apple-tv node for Node-BLUE.",
+  "keywords": [
+    "apple",
+    "tv",
+    "multimedia",
+    "tv",
+    "apple"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

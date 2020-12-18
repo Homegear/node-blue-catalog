@@ -1,0 +1,11 @@
+{
+  "id": "node-blue-node-backup",
+  "version": "1.0.0",
+  "url": "https://github.com/m-scheffler/node-blue-node-backup/blob/master/README.md",
+  "pkg_url": "https://github.com/m-scheffler/node-blue-node-backup/archive/master.tar.gz",
+  "description": "Provides a FTP node for Node-BLUE.",
+  "keywords": [
+    "backup"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "node-blue-node-fritzbox-callmonitor",
+  "version": "1.0.1",
+  "url": "https://github.com/Homegear/node-blue-node-fritzbox-callmonitor/blob/master/README.md",
+  "pkg_url": "https://github.com/Homegear/node-blue-node-fritzbox-callmonitor/archive/master.tar.gz",
+  "description": "Provides a fritzbox callmonitor node for Node-BLUE.",
+  "keywords": [
+    "fritzbox",
+    "callmonitor"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

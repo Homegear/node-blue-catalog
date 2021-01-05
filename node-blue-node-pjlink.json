@@ -1,0 +1,11 @@
+{
+  "id": "node-blue-node-pjlink",
+  "version": "1.0.0",
+  "url": "https://github.com/Homegear/node-blue-node-pjlink/blob/master/README.md",
+  "pkg_url": "https://github.com/Homegear/node-blue-node-pjlink/archive/master.tar.gz",
+  "description": "Provides a pjlink node for Node-BLUE.",
+  "keywords": [
+    "pjlink"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

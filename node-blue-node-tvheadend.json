@@ -1,0 +1,11 @@
+{
+  "id": "node-blue-node-tvheadend",
+  "version": "1.0.0",
+  "url": "https://github.com/Homegear/node-blue-node-tvheadend/blob/master/README.md",
+  "pkg_url": "https://github.com/Homegear/node-blue-node-tvheadend/archive/master.tar.gz",
+  "description": "Provides a tvheadend node for Node-BLUE.",
+  "keywords": [
+    "tvheadend"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

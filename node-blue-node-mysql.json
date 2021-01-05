@@ -1,0 +1,12 @@
+{
+  "id": "node-blue-node-mysql",
+  "version": "1.0.0",
+  "url": "https://github.com/codmpm/node-blue-node-mysql/blob/master/README.md",
+  "pkg_url": "https://github.com/codmpm/node-blue-node-mysql/archive/master.tar.gz",
+  "description": "Provides a MySQL node for Node-BLUE.",
+  "keywords": [
+    "mysql",
+    "database"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

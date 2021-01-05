@@ -1,0 +1,11 @@
+{
+  "id": "node-blue-node-squeezebox",
+  "version": "1.0.0",
+  "url": "https://github.com/Homegear/node-blue-node-squeezebox/blob/master/README.md",
+  "pkg_url": "https://github.com/Homegear/node-blue-node-squeezebox/archive/master.tar.gz",
+  "description": "Provides a squeezebox node for Node-BLUE.",
+  "keywords": [
+    "squeezebox"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

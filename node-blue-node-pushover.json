@@ -1,0 +1,14 @@
+{
+  "id": "node-blue-node-pushover",
+  "version": "1.0.0",
+  "url": "https://github.com/codmpm/node-blue-node-pushover/blob/master/README.md",
+  "pkg_url": "https://github.com/codmpm/node-blue-node-pushover/archive/master.tar.gz",
+  "description": "Push messages to your device using https://pushover.net/.",
+  "keywords": [
+    "pushover",
+    "communication",
+    "notification",
+    "messenger"
+  ],
+  "updated_at": "2020-07-27T12:29+00:00"
+}

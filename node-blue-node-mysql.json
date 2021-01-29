@@ -4,6 +4,10 @@
   "url": "https://github.com/codmpm/node-blue-node-mysql/blob/master/README.md",
   "pkg_url": "https://github.com/codmpm/node-blue-node-mysql/archive/master.tar.gz",
   "description": "Provides a MySQL node for Node-BLUE.",
+  "types": [
+    "mysql",
+    "mysql-server"
+  ],
   "keywords": [
     "mysql",
     "database"

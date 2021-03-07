@@ -1,0 +1,12 @@
+{
+  "id": "node-blue-node-calculator",
+  "version": "1.0.0",
+  "url": "https://github.com/dimmu311/node-blue-node-calculator/blob/main/README.md",
+  "pkg_url": "https://github.com/dimmu311/node-blue-node-calculator/archive/main.zip",
+  "description": "A node to do simple math operations.",
+  "keywords": [
+    "calculator",
+    "math"
+  ],
+  "updated_at": "2021-03-07T18:58+00:00"
+}
